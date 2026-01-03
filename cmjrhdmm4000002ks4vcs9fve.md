@@ -4,7 +4,7 @@ seoTitle: "yogayataverma"
 datePublished: Mon Dec 29 2025 18:17:30 GMT+0000 (Coordinated Universal Time)
 cuid: cmjrhdmm4000002ks4vcs9fve
 slug: hi-im-yogayata-verma-a-learner-and-a-builder
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767070607629/c3c61340-2da0-44b4-b282-c94c6485db17.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767435854719/995bd790-fbfb-4708-8992-d9ef6e7b5227.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767032236016/f3e1b948-6b02-49fd-bd1d-f6db83eda62c.jpeg
 tags: aboutme
 
